@@ -1,0 +1,35 @@
+body {
+    background-color: hsl(257, 40%, 49%);
+    background-image: url("../images/bg-desktop.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+
+.middle {
+    position: relative;
+}
+
+.content {
+}
+
+.logo {
+    padding: 75px 0 90px 125px;
+}
+
+.mockups {
+    padding: 0 75px;
+    float: left;
+}
+
+.header {
+    line-height: 2;
+    margin-bottom: 0;
+}
