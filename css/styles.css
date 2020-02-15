@@ -21,6 +21,8 @@ h1 {
 }
 
 .content {
+    width: 100%;
+    display: inline-block;
 }
 
 .logo {
@@ -30,6 +32,7 @@ h1 {
 .mockups {
     padding: 0 75px;
     float: left;
+    display: inline-block;
 }
 
 .header {
